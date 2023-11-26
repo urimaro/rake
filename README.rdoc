@@ -74,10 +74,12 @@ Type "rake --help" for all available options.
 
 === Rake Information
 
-* {Rake command-line}[link:doc/command_line_usage.rdoc]
-* {Writing Rakefiles}[link:doc/rakefile.rdoc]
-* The original {Rake announcement}[link:doc/rational.rdoc]
-* Rake {glossary}[link:doc/glossary.rdoc]
+* {Rake command-line}[link:doc/command_line_usage_rdoc.html]
+* {Writing Rakefiles}[link:doc/rakefile_rdoc.html]
+* The original {Rake announcement}[link:doc/rational_rdoc.html]
+* The original {Rake announcement}[rdoc-ref:RATIONAL]
+* Rake {glossary}[link:doc/glossary_rdoc.html]
+* Rake {glossary}[rdoc-ref:GLOSSARY]
 
 === Presentations and Articles about Rake
 
